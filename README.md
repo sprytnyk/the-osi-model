@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/britonad/the-osi-model/blob/master/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/sprytnyk/the-osi-model/blob/master/LICENSE)
 
 # The OSI model compendium
 
